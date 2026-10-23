@@ -1,0 +1,22 @@
+{
+  "name": "ar-museum-guide",
+  "version": "1.0.0",
+  "description": "ChronosAR: Intelligent WebAR Spatial Museum Guide with 3D Holographic Artifacts, Spatial Audio, and Computer Vision Tracking for Final Year CSE PBL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "augmented-reality",
+    "webar",
+    "threejs",
+    "museum-guide",
+    "arvr",
+    "computer-vision",
+    "spatial-audio",
+    "final-year-cse"
+  ],
+  "author": "Final Year CSE AR/VR PBL Team",
+  "license": "MIT"
+}
